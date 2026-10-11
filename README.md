@@ -47,7 +47,7 @@ Practical, step-by-step answers for everyday Bitcoin wallet users: installing, b
 
 ---
 
-## Get Bitcore Wallet
+## Get Bitcore Wallet.
 
 > [!TIP]
 > Download only from the official release or [bitcorewallet.org](https://bitcorewallet.org/download). Nobody from Bitcore Wallet will ever ask for your recovery phrase.
